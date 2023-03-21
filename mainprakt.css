@@ -1,0 +1,13 @@
+.kvadrat {
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+
+}
+
+.kartinka {
+    width: 250px;
+    height: 250px;
+    padding: 60px;
+    margin: 65px;
+}
